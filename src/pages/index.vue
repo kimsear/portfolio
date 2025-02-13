@@ -32,7 +32,7 @@
 
       <div class="row justify-content-center mt-2">
         <div class="col-lg-4">
-          <img src="https://i.pinimg.com/originals/bb/37/5c/bb375cdd655184ca2715ac5059e73651.gif" class="profile rounded-circle text-center mt-4" width="300" height="300">
+          <img src="https://i.pinimg.com/736x/7b/6c/5e/7b6c5e8d93bc6830ae6ea45df4bcee61.jpg" class="profile rounded-circle text-center mt-4" width="300" height="300">
         </div>
         <div class="col-lg-8 content">
           <h3>UI/UX Designer &amp; Web Developer.</h3>

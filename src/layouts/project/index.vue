@@ -3,13 +3,13 @@
     <div class="container py-4">
     <div class="row g-5 mb-5 align-items-center">
       <div class="col-lg-6">
-        <h1 class="display-5 mb-0 text-light">My Projects</h1>
+        <h1 class="display-5 mb-0">My Projects</h1>
       </div>
       <div class="col-lg-6 text-lg-end nav nav-tabs card-header-tabs">
         <ul class="list-inline mx-n3 mb-0 d-flex" id="portfolio-filters">
-          <li class="mx-3 list-inline-item nav-link text-light" :class="{ active: filter === '*' }" @click="setFilter('*')">All Projects</li>
-          <li class="mx-3 list-inline-item nav-link text-light" :class="{ active: filter === 'first' }" @click="setFilter('first')">UI/UX Design</li>
-          <li class="mx-3 list-inline-item nav-link text-light" :class="{ active: filter === 'second' }" @click="setFilter('second')">Web Develop</li>
+          <li class="mx-3 list-inline-item nav-link " :class="{ active: filter === '*' }" @click="setFilter('*')">All Projects</li>
+          <li class="mx-3 list-inline-item nav-link " :class="{ active: filter === 'first' }" @click="setFilter('first')">UI/UX Design</li>
+          <li class="mx-3 list-inline-item nav-link " :class="{ active: filter === 'second' }" @click="setFilter('second')">Web Develop</li>
         </ul>
       </div>
     </div>
@@ -36,9 +36,11 @@
     <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-3 g-4 p-2 hover-zoom">
       <div class="col">
         <div class="card h-100 shadow-lg">
-          <img src="@\assets\images\Graphic\match01.png" alt="">
+          <router-link to="/design">
+            <img src="@/assets/images/Graphic/match01.png" alt="Football Team Poster" class="card-img">
+          </router-link>
           <div class="card-body">
-            <a href="/design" target="" class="text-decoration-none text-dark"><strong>Football Team Poster</strong> </a>
+            <h4>Football match poster</h4>
             <p class="card-text">Graphic Design</p>
           </div>
         </div>
@@ -82,6 +84,10 @@ const filteredProjects = computed(() => {
 }
 .card-img-top {
   height: 200px;
+  object-fit: cover;
+}
+.card-img {
+  height: 300px;
   object-fit: cover;
 }
 .hover-zoom .card {

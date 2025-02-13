@@ -4,7 +4,7 @@
 
       <div class="row justify-content-center mt-2">
         <div class="col-lg-4">
-          <img src="../assets/images/profile.png" class="profile rounded-circle text-center mt-4" width="300" height="300">
+          <img src="https://i.pinimg.com/736x/7b/6c/5e/7b6c5e8d93bc6830ae6ea45df4bcee61.jpg" class="profile rounded-circle text-center mt-4" width="300" height="300">
         </div>
         <div class="col-lg-8 content">
           <h3>Web Developer &amp; UI/UX Designer</h3>
@@ -16,7 +16,7 @@
             <div class="col-lg-6">
               <ul>
                 <li> <strong>Birthday:</strong> <span>12 December 2001</span></li>
-                <li> <strong>Website:</strong> <span>www.example.com</span></li>
+                <li> <strong>Website:</strong> <span><a href="https://portfolio-amber-theta-17.vercel.app/" target="/blank">link</a></span></li>
                 <li> <strong>Phone:</strong> <span>+855 962 711 963</span></li>
                 <li> <strong>City:</strong> <span>Phnom Penh, CAMBODIA</span></li>
               </ul>

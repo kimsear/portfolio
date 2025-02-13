@@ -3,8 +3,8 @@
     <div class="container">
       <!-- Logo -->
       <router-link class="navbar-brand d-flex align-items-center" to="/">
-        <img src="https://i.pinimg.com/originals/bb/37/5c/bb375cdd655184ca2715ac5059e73651.gif"
-             alt="Logo" class="rounded-circle me-2" width="50" height="50">
+        <img src="https://i.pinimg.com/736x/7b/6c/5e/7b6c5e8d93bc6830ae6ea45df4bcee61.jpg"
+             alt="Logo" class="rounded-circle me-2" width="40" height="40">
         <!-- <span>My Portfolio</span> -->
       </router-link>
 
