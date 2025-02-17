@@ -43,17 +43,17 @@
           <div class="row">
             <div class="col-lg-6">
               <ul>
-                <li> <strong>Birthday:</strong> <span>1 May 1995</span></li>
-                <li> <strong>Website:</strong> <span>www.example.com</span></li>
-                <li> <strong>Phone:</strong> <span>+123 456 7890</span></li>
-                <li> <strong>City:</strong> <span>New York, USA</span></li>
+                <li> <strong>Birthday:</strong> <span>12 December 2001</span></li>
+                <li> <strong>Website:</strong> <span><a href="https://portfolio-amber-theta-17.vercel.app/" target="/blank">link</a></span></li>
+                <li> <strong>Phone:</strong> <span>+855 962 711 963</span></li>
+                <li> <strong>City:</strong> <span>Phnom Penh, CAMBODIA</span></li>
               </ul>
             </div>
             <div class="col-lg-6">
               <ul>
-                <li><strong>Age:</strong> <span>30</span></li>
-                <li><strong>Degree:</strong> <span>Master</span></li>
-                <li> <strong>Email:</strong> <span>email@example.com</span></li>
+                <li><strong>Age:</strong> <span>23</span></li>
+                <li><strong>Degree:</strong> <span>Baclor</span></li>
+                <li> <strong>Email:</strong> <span>kakimsear07@gmail.com</span></li>
                 <li> <strong>Freelance:</strong> <span>Available</span></li>
               </ul>
             </div>

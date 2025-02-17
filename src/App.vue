@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Navbar style="z-index: 100;" />
+    <Navbar style="z-index: 100;"/>
       <main class="flex-grow-1">
         <router-view />
       </main>
