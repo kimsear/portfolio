@@ -5,18 +5,43 @@
       <div class="profile-section">
         <img src="@/assets/images/profile.png" alt="Profile Image" class="profile-image" />
         <h1>Ka Kimsear</h1>
-        <p class="bio">A short bio or description about yourself. You can mention your profession, interests, or anything you'd like to share.</p>
+        <p class="bio">
+          Hi, I'm Kimsear, a passionate Junior UI/UX Designer and Junior Web Developer. I specialize in creating intuitive and visually appealing user interfaces, while ensuring seamless user experiences. With a solid foundation in web development, I enjoy transforming designs into fully functional websites that are both aesthetically pleasing and responsive across devices. I am constantly learning and evolving, driven by a love for innovation and problem-solving. Let's collaborate and build something amazing together!
+        </p>
       </div>
 
       <p>You can reach me through the following social media platforms:</p>
       <ul class="social-media-list">
-        <li><a href="https://twitter.com/yourprofile" target="_blank"><i class="bi bi-twitter"></i> Twitter</a></li>
-        <li><a href="https://www.facebook.com/yourprofile" target="_blank"><i class="bi bi-facebook"></i> Facebook</a></li>
-        <li><a href="https://linkedin.com/in/yourprofile" target="_blank"><i class="bi bi-linkedin"></i> LinkedIn</a></li>
-        <li><a href="https://github.com/yourprofile" target="_blank"><i class="bi bi-github"></i> GitHub</a></li>
-        <li><a href="https://www.instagram.com/yourprofile" target="_blank"><i class="bi bi-instagram"></i> Instagram</a></li>
-        <li><a href="https://www.youtube.com/c/yourchannel" target="_blank"><i class="bi bi-youtube"></i> YouTube</a></li>
-        <li><a href="https://t.me/yourprofile" target="_blank"><i class="bi bi-telegram"></i> Telegram</a></li>
+        <li>
+          <a href="https://www.facebook.com/ka.kimsear.7" class="facebook" target="_blank" rel="noopener noreferrer">
+            <i class="bi bi-facebook"></i>
+            Facebook
+          </a>
+        </li>
+        <li>
+          <a href="https://www.linkedin.com/in/ka-kimsear-9018b924a/" class="linkedin" target="_blank" rel="noopener noreferrer">
+            <i class="bi bi-linkedin"></i>
+            LinkedIn
+          </a>
+        </li>
+        <li>
+          <a href="https://www.instagram.com/kim_sear7/" class="instagram" target="_blank" rel="noopener noreferrer">
+          <i class="bi bi-instagram"></i>
+            Instagram
+          </a>
+        </li>
+        <li>
+          <a href="mailto:kakimsear07@gmail.com" class="email" target="_blank" rel="noopener noreferrer">
+            <i class="bi bi-envelope"></i>
+            Email
+          </a>
+        </li>
+        <li>
+          <a href="https://t.me/kimsear7" class="telegram" target="_blank" rel="noopener noreferrer">
+            <i class="bi bi-telegram"></i>
+            Telegram
+          </a>
+        </li>
       </ul>
     </div>
   </section>

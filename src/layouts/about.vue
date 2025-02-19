@@ -33,6 +33,7 @@
                   <li><strong>Cambodian Driving License: </strong> <span>B Type</span></li>
                 </ul>
               </div>
+
             </div>
           </div>
         </div>
@@ -93,11 +94,12 @@
                 <li>Dahboard Design using Vue3, Bootstrap5, Larevel11, Api, jwt-authentication-laravel, mysql database.</li>
               </ul>
             </div><!-- Edn Resume Item -->
-
+            <div class="col-lg-12">
+                <p><strong>QR Code:</strong> Scan this QR code for my Education information:</p>
+                <img src="@/assets/images/QR.png" alt="QR Code" style="width: 150px; height: 150px;">
+              </div>
           </div>
-
         </div>
-
       </div>
   </section>
   <section>
