@@ -65,7 +65,7 @@ const projectData = ref([
   { title: 'Admin Dashboard (User, Customer, Product)', image: admindashboard,description:"Develop using Bootstrap, Vue and Laravel api" , link: '#', category: 'first' },
   { title: 'Android Mobile app (Sport Store)', image: mobileapp,description:"JinXing Store is an online shop focused on sport products.", link: '#', category: 'first' },
   { title: 'Computer Store', image: 'https://i.pinimg.com/736x/20/0a/07/200a072465dc3c288a1d5780105705f7.jpg',description:"Html, css, javascript, bootstrap and laravel", link: '#', category: 'second' },
-  { title: 'Ux/Ui', image: uxui ,description:"effffff", link: '#', category: 'first' },
+  { title: 'Ux/Ui', image: uxui ,description:"", link: '#', category: 'first' },
 ]);
 
 const setFilter = (category) => {
