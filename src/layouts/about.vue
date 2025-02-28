@@ -157,6 +157,14 @@ const projectData = [
     image: laravelImage,
   },
   {
+    title: 'mysql Database',
+    image: 'https://i.pinimg.com/736x/f8/ee/69/f8ee696f018c1a4ad6b9972b85fc6b2e.jpg',
+  },
+  {
+    title: 'Xampp',
+    image: 'https://i.pinimg.com/736x/5c/3d/4b/5c3d4b018e0995b97171a35e06da9dae.jpg',
+  },
+  {
     title: 'vue',
     image: vueImage,
   },
@@ -192,6 +200,7 @@ const projectData = [
     title: 'powerpoint',
     image: 'https://i.pinimg.com/736x/80/68/92/8068924250f6c5dc490267ab19a91a21.jpg',
   },
+
 ];
 </script>
 

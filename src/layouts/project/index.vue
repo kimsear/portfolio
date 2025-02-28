@@ -5,13 +5,13 @@
       <div class="col-lg-6">
         <h1 class="display-5 mb-0">My Projects</h1>
       </div>
-      <div class="col-lg-6 text-lg-end nav nav-tabs card-header-tabs">
+      <!-- <div class="col-lg-6 text-lg-end nav nav-tabs card-header-tabs">
         <ul class="list-inline mx-n3 mb-0 d-flex" id="portfolio-filters">
           <li class="mx-3 list-inline-item nav-link " :class="{ active: filter === '*' }" @click="setFilter('*')">All Projects</li>
           <li class="mx-3 list-inline-item nav-link " :class="{ active: filter === 'first' }" @click="setFilter('first')">UI/UX Design</li>
           <li class="mx-3 list-inline-item nav-link " :class="{ active: filter === 'second' }" @click="setFilter('second')">Web Develop</li>
         </ul>
-      </div>
+      </div> -->
     </div>
     <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-3 g-4 p-2 hover-zoom">
       <div class="col" v-for="project in filteredProjects" :key="project.title">
