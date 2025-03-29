@@ -1,5 +1,5 @@
 <template>
-  <footer class="bg-secondary text-white text-center py-3">
+  <footer class="bg-light text-primary text-center py-3">
     <p>&copy; 2025 My Portfolio. All Rights Reserved.</p>
     <div>
       <a href="https://t.me/kimsear7" target="_blank" class=""><i class="bi bi-telegram"></i> Telegram</a>

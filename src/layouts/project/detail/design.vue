@@ -1,5 +1,6 @@
 <template>
  <div class="container py-2">
+  <h1 class="text-white text-center">Design</h1>
   <div class="row">
     <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-3 m-2 hover-zoom">
       <div class="card">
@@ -13,7 +14,7 @@
           <small class="text-muted">Last updated 3 mins ago</small>
         </p>
       </div>
-      <img src="@\assets\images\Graphic\match01.png" class="card-img-bottom" alt="Camera"/>
+      <img src="@\assets\images\Graphic\pic01.jpg" class="card-img-bottom" alt="Camera"/>
       </div>
       <div class="card">
       <div class="card-body">
@@ -26,7 +27,7 @@
           <small class="text-muted">Last updated 3 mins ago</small>
         </p>
       </div>
-      <img src="@\assets\images\Graphic\match01.png" class="card-img-bottom" alt="Camera"/>
+      <img src="@\assets\images\Graphic\pic02.png" class="card-img-bottom" alt="Camera"/>
       </div>
       <div class="card">
       <div class="card-body">
@@ -39,7 +40,7 @@
           <small class="text-muted">Last updated 3 mins ago</small>
         </p>
       </div>
-      <img src="@\assets\images\Graphic\match01.png" class="card-img-bottom" alt="Camera"/>
+      <img src="@\assets\images\Graphic\pic01.jpg" class="card-img-bottom" alt="Camera"/>
       </div>
       <div class="card">
       <div class="card-body">
@@ -52,7 +53,7 @@
           <small class="text-muted">Last updated 3 mins ago</small>
         </p>
       </div>
-      <img src="@\assets\images\Graphic\match01.png" class="card-img-bottom" alt="Camera"/>
+      <img src="@\assets\images\Graphic\pic01.jpg" class="card-img-bottom" alt="Camera"/>
       </div>
       <div class="card">
       <div class="card-body">
@@ -65,7 +66,7 @@
           <small class="text-muted">Last updated 3 mins ago</small>
         </p>
       </div>
-      <img src="@\assets\images\Graphic\match01.png" class="card-img-bottom" alt="Camera"/>
+      <img src="@\assets\images\Graphic\pic03.png" class="card-img-bottom" alt="Camera"/>
       </div>
       <div class="card">
       <div class="card-body">
@@ -78,7 +79,7 @@
           <small class="text-muted">Last updated 3 mins ago</small>
         </p>
       </div>
-      <img src="@\assets\images\Graphic\match01.png" class="card-img-bottom" alt="Camera"/>
+      <img src="@\assets\images\Graphic\pic01.jpg" class="card-img-bottom" alt="Camera"/>
       </div>
     </div>
   </div>
@@ -93,7 +94,7 @@ export default {
 
 <style>
 .card-img-bottom{
-  max-height: 500px;
+  max-height: 400px;
   object-fit: cover;
   margin-bottom: 1rem;
 }

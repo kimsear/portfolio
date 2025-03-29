@@ -37,7 +37,7 @@
       <div class="col">
         <div class="card h-100 shadow-lg">
           <router-link to="/design">
-            <img src="@/assets/images/Graphic/match01.png" alt="Football Team Poster" class="card-img">
+            <img src="@\assets\images\Graphic\pic02.png" alt="Football Team Poster" class="card-img">
           </router-link>
           <div class="card-body">
             <h4>Football match poster</h4>
