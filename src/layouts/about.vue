@@ -1,5 +1,5 @@
 <template>
-<section id="about" class="about section text-light m-1">
+  <section id="about" class="about section text-light m-1">
       <div class="container section-title p-4" data-aos="fade-up">
         <h2 class="text-center">CURRICULUM VITAE</h2>
       </div>
