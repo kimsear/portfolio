@@ -96,7 +96,7 @@
             </div><!-- Edn Resume Item -->
             <div class="col-lg-12">
                 <p><strong>QR Code:</strong> Scan this QR code for my Education information:</p>
-                <img src="@/assets/images/QR.JPG" alt="QR Code" style="width: 150px; height: 150px;">
+                <img src="@/assets/images/qr.jpg" alt="QR Code" style="width: 150px; height: 150px;">
               </div>
           </div>
         </div>
