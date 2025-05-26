@@ -9,8 +9,8 @@
             <img src="@\assets\images\profile.png" alt="Profile Picture" class="img-fluid rounded-circle mb-2" style="max-width: 350px;">
           </div>
           <div class="col-lg-8 content">
-            <h4>I'm KA Kimsear <b class="text-primary">(高金星)</b></h4>
-            <h6>Junior UI/UX Designer &amp; Junior Web Developer.</h6>
+            <h4>I'm KA Kimsear</h4>
+            <h6>Junior Web Developer</h6>
             <p class="fst-italic py-3">
 
             </p>

@@ -5,7 +5,7 @@
 
     <div class="container text-light" data-aos="fade-up" data-aos-delay="100">
       <h2>KA Kimsear</h2>
-      <p>I'm <span class="typed" data-typed-items="Designer, Developer, Freelancer, Photographer">Junior UI/UX Designer & Junior Web Developer.</span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span></p>
+      <p>I'm <span class="typed" data-typed-items="Designer, Developer, Freelancer, Photographer">Junior Web Developer.</span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span></p>
       <div class="social-links">
         <a href="https://www.facebook.com/ka.kimsear.7" class="facebook" target="_blank" rel="noopener noreferrer">
           <i class="bi bi-facebook"></i>

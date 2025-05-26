@@ -26,28 +26,7 @@
     </div>
   </div>
   </section>
-  <section>
-    <div class="container py-4">
-    <div class="row g-5 mb-5 align-items-center">
-      <div class="col-lg-6">
-        <h1 class="display-5 mb-0 text-light">Achivement</h1>
-      </div>
-    </div>
-    <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-3 g-4 p-2 hover-zoom">
-      <div class="col">
-        <div class="card h-100 shadow-lg">
-          <router-link to="/design">
-            <img src="@\assets\images\Graphic\pic02.png" alt="Football Team Poster" class="card-img">
-          </router-link>
-          <div class="card-body">
-            <h4>Football match poster</h4>
-            <p class="card-text">Graphic Design</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  </section>
+  
 </template>
 
 <script setup>
